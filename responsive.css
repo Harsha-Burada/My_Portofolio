@@ -1,0 +1,28 @@
+@media (max-width: 992px) {
+  .header {
+    padding: 1.2rem 5%;
+  }
+
+  .navbar a {
+    font-size: 1.25rem;
+    align-items: center;
+    margin-left: 1.2rem;
+  }
+
+  .home {
+    flex-direction: column;
+    padding: 6rem 5% 2rem;
+  }
+
+  .home-content {
+    text-align: center;
+  }
+
+  .home-image {
+    margin-top: 2rem;
+  }
+
+  .home-image img {
+    max-width: 300px;
+  }
+}
